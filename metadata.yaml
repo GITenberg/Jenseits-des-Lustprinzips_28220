@@ -1,0 +1,49 @@
+_repo: Jenseits-des-Lustprinzips_28220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: "Beyond the Pleasure Principle (German: Jenseits des Lustprinzips) is\
+  \ a 1920 essay by Sigmund Freud that marks a major turning point in his theoretical\
+  \ approach. Previously, Freud attributed most human behavior to the sexual instinct\
+  \ (Eros or libido). With this essay, Freud went \"beyond\" the simple pleasure principle,\
+  \ developing his theory of drives with the addition of the death drive(s) (Todestrieb[e])\
+  \ (often referred to as \"Thanatos\").\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2009-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28220'
+  wikidata: Q466271
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Psychoanalysis'
+- !lcsh 'Pleasure principle (Psychology)'
+title: Jenseits des Lustprinzips
+url: http://www.gutenberg.org/ebooks/28220
+wikipedia:
+- https://fr.wikipedia.org/wiki/Au-del%C3%A0_du_principe_de_plaisir
+- https://zh.wikipedia.org/wiki/%E8%B6%85%E8%B6%8A%E5%BF%AB%E6%A8%82%E5%8E%9F%E5%89%87
+- https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%98%E1%83%90%E1%83%9B%E1%83%9D%E1%83%95%E1%83%9C%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%9E%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%94%E1%83%9D%E1%83%A0%E1%83%94_%E1%83%9B%E1%83%AE%E1%83%90%E1%83%A0%E1%83%94%E1%83%A1
+- https://de.wikipedia.org/wiki/Jenseits_des_Lustprinzips
+- https://en.wikipedia.org/wiki/Beyond_the_Pleasure_Principle
+- https://es.wikipedia.org/wiki/M%C3%A1s_all%C3%A1_del_principio_de_placer
+- https://hu.wikipedia.org/wiki/A_hal%C3%A1l%C3%B6szt%C3%B6n_%C3%A9s_az_%C3%A9let%C3%B6szt%C3%B6n%C3%B6k
+- https://bg.wikipedia.org/wiki/%D0%9E%D1%82%D0%B2%D1%8A%D0%B4_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B0_%D0%BD%D0%B0_%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%81%D1%82%D0%B2%D0%B8%D0%B5%D1%82%D0%BE
+- https://it.wikipedia.org/wiki/Al_di_l%C3%A0_del_principio_di_piacere
+- https://la.wikipedia.org/wiki/Jenseits_des_Lustprinzips
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%BE_%D1%82%D1%83_%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%83_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B0_%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B8%D1%8F
+- https://ca.wikipedia.org/wiki/M%C3%A9s_enll%C3%A0_del_principi_de_plaer
+- https://ko.wikipedia.org/wiki/%EC%BE%8C%EB%9D%BD_%EC%9B%90%EB%A6%AC%EC%9D%98_%EC%A0%80%ED%8E%B8
